@@ -1,0 +1,7 @@
+1 - Criar repositório no GitHub
+2 - Copiar (clonar) link HTPPS (em CODE)
+3 - Abrir uma pasta no PC e executar o GIT BASH
+4 - Comando: git clone e colar link do repositório; dar enter
+5 - Comando: cd e copiar e colar o link do repositório já no computador; dar enter. 
+Já vai estar trabalhando dentro do arquivo que está no pc
+6 - Comando: git status para verificar o status do arquivo
